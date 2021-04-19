@@ -25,9 +25,9 @@
 => buat single layout yang berisi deskripsi, portfolio, dll
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
-# No 1 (Syntax di Folder Lab4Web)
+# No 1 (Syntax di Folder Lab4_Layout)
 - Membuat single layout pada about yang diisi portofolio saya dengan foto dan penjelasanya beserta css style yang dibuat
 ![jawab 1](https://user-images.githubusercontent.com/56240498/115247448-ff714100-a150-11eb-81dc-647c22cf0f6a.jpg)
-# No 2 (Syntax di Folder Lab4Web)
+# No 2 (Syntax di Folder Lab4_Layout)
 - Membuat kontak atau profil lengkap pada file kontak berikut
 ![jawab 2](https://user-images.githubusercontent.com/56240498/115247466-026c3180-a151-11eb-9cb8-15b93e40013c.jpg)
